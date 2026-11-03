@@ -34,18 +34,18 @@ const CommonMenu = () => {
             <div className="col-12 col-sm-7">
               <div className="row align-items-center g-2 g-sm-3">
                 <div className="col-auto">
-                  <a href="tel:+18009368672" className="top-bar-link">
+                  <a href="tel:+91 7408926512" className="top-bar-link">
                     <FaPhoneAlt className="top-bar-icon" />
-                    Call: +1 (800) ZENTORA
+                    Call: +91 (7408926512) ZENTORA
                   </a>
                 </div>
                 <div className="col-auto d-none d-md-block">
                   <span className="top-bar-sep">|</span>
                 </div>
                 <div className="col-auto">
-                  <a href="mailto:support@zentora.com" className="top-bar-link">
+                  <a href="mailto:ad74mi@gmail.com" className="top-bar-link">
                     <FaEnvelope className="top-bar-icon" />
-                    Email: support@zentora.com
+                    Email: ad74mi@gmail.com
                   </a>
                 </div>
               </div>
@@ -151,7 +151,7 @@ const AdminMenu = () => {
                 <div className="col-auto">
                   <a href="tel:+18009368672" className="top-bar-link">
                     <FaPhoneAlt className="top-bar-icon" />
-                    Call: +1 (800) ZENTORA
+                    Call: +91 (7408926512) ZENTORA
                   </a>
                 </div>
                 <div className="col-auto d-none d-md-block">
@@ -160,7 +160,7 @@ const AdminMenu = () => {
                 <div className="col-auto">
                   <a href="mailto:support@zentora.com" className="top-bar-link">
                     <FaEnvelope className="top-bar-icon" />
-                    Email: support@zentora.com
+                    Email: ad74mi@gmail.com.com
                   </a>
                 </div>
               </div>
@@ -271,7 +271,7 @@ const ClientMenu = () => {
                 <div className="col-auto">
                   <a href="tel:+18009368672" className="top-bar-link">
                     <FaPhoneAlt className="top-bar-icon" />
-                    Call: +1 (800) ZENTORA
+                    Call: +91 (7408926512) ZENTORA
                   </a>
                 </div>
                 <div className="col-auto d-none d-md-block">
@@ -280,7 +280,7 @@ const ClientMenu = () => {
                 <div className="col-auto">
                   <a href="mailto:support@zentora.com" className="top-bar-link">
                     <FaEnvelope className="top-bar-icon" />
-                    Email: support@zentora.com
+                    Email: ad74mi@gmail.com
                   </a>
                 </div>
               </div>
@@ -381,7 +381,7 @@ const UserMenu = () => {
                 <div className="col-auto">
                   <a href="tel:+18009368672" className="top-bar-link">
                     <FaPhoneAlt className="top-bar-icon" />
-                    Call: +1 (800) ZENTORA
+                    Call: +91 (7408926512) ZENTORA
                   </a>
                 </div>
                 <div className="col-auto d-none d-md-block">
@@ -390,7 +390,7 @@ const UserMenu = () => {
                 <div className="col-auto">
                   <a href="mailto:support@zentora.com" className="top-bar-link">
                     <FaEnvelope className="top-bar-icon" />
-                    Email: support@zentora.com
+                    Email: ad74mi@gmail.com
                   </a>
                 </div>
               </div>

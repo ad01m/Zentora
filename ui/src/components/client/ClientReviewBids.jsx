@@ -12,7 +12,7 @@ const ClientReviewBids = () => {
 
   const fetchData = async () => {
     const projectId = location?.state?._id
-    const res = await axios.get(`http://localhost:9000/client-biding-list?projectId=${projectId}`)
+    const res = await axios.get(`https://zentora-db.onrender.com/client-biding-list?projectId=${projectId}`)
     setData(res?.data?.result)
   }
 

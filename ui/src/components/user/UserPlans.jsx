@@ -8,7 +8,7 @@ const UserPlans = () => {
     fetchData()
   }, [])
   const fetchData = async () => {
-    const res = await axios.get('http://localhost:9000/admin-get-plans')
+    const res = await axios.get('https://zentora-db.onrender.com/admin-get-plans')
     setData(res?.data?.result)
   }
   const handlePurchasePlan = (item) => {

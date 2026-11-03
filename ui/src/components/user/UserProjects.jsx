@@ -12,7 +12,7 @@ const UserProjects = () => {
   }, []);
 
   const fetchData = async () => {
-    const res = await axios.get("http://localhost:9000/user-project-list");
+    const res = await axios.get("https://zentora-db.onrender.com/user-project-list");
     setData(res?.data?.result);
   };
   const handlePostBid = async () => {

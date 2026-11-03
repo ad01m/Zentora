@@ -29,9 +29,9 @@ const Footer = () => {
               Zentora — Where Talent Meets Opportunity. The future of freelancing
               is here. Connect. Collaborate. Earn.
             </p>
-            <p className="footer-contact"><b>Add:</b> 70-80 Upper St Norwich NR2</p>
-            <p className="footer-contact"><b>Call:</b> +01 123 5641 231</p>
-            <p className="footer-contact"><b>Email:</b> hello@zentora.com</p>
+            <p className="footer-contact"><b>Add:</b> Gonda, Near Shiv Mandir</p>
+            <p className="footer-contact"><b>Call:</b> +91- 7408926512</p>
+            <p className="footer-contact"><b>Email:</b> ad74mi@gmai.com</p>
           </div>
 
           <div className="col-lg-3 col-md-6">
@@ -83,19 +83,19 @@ const Footer = () => {
               </button>
             </form>
             <div className="footer-social">
-              <a href="https://facebook.com" target="_blank" rel="noreferrer" className="facebook" aria-label="Facebook">
+              <a href="https://www.facebook.com/aa.darsh74" target="_blank" rel="noreferrer" className="facebook" aria-label="Facebook">
                 <FaFacebookF />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="linkedin" aria-label="LinkedIn">
+              <a href="www.linkedin.com/in/ad01m" target="_blank" rel="noreferrer" className="linkedin" aria-label="LinkedIn">
                 <FaLinkedinIn />
               </a>
-              <a href="https://instagram.com" target="_blank" rel="noreferrer" className="instagram" aria-label="Instagram">
+              <a href="https://www.instagram.com/ad.01m?vrfl=bnU2bnhobmZwejdk" target="_blank" rel="noreferrer" className="instagram" aria-label="Instagram">
                 <FaInstagram />
               </a>
-              <a href="https://twitter.com" target="_blank" rel="noreferrer" className="twitter" aria-label="Twitter">
+              <a href="https://x.com/ad74mi" target="_blank" rel="noreferrer" className="twitter" aria-label="Twitter">
                 <FaTwitter />
               </a>
-              <a href="https://youtube.com" target="_blank" rel="noreferrer" className="youtube" aria-label="YouTube">
+              <a href="https://youtube.com/@ad74mi?si=NJPA0PH4Q7hVhiSJ" target="_blank" rel="noreferrer" className="youtube" aria-label="YouTube">
                 <FaYoutube />
               </a>
             </div>

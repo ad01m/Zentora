@@ -10,7 +10,7 @@ const AdminUsers = () => {
   }, []);
 
   const fetchData = async () => {
-    const res = await axios.get("http://localhost:9000/admin-users-list");
+    const res = await axios.get("https://zentora-db.onrender.com/admin-users-list");
       setData(res?.data?.result);
   };
 
